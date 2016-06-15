@@ -1,0 +1,11 @@
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\bin\Debug\WF2_0806.exe.config
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.csprojResolveAssemblyReference.cache
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.CoreForm.resources
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.Properties.Resources.resources
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.csproj.GenerateResource.Cache
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\bin\Debug\WF2_0806.exe
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\bin\Debug\WF2_0806.pdb
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.exe
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.pdb
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.AddBike.resources
+C:\Disc_D\[]__ITacademy\C_sharp\WF2_0806\WF2_0806\obj\Debug\WF2_0806.ucCross.resources
